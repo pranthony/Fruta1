@@ -1,16 +1,16 @@
 [
   {
-    "id":1,
-    "type": "Tutorial",
-    "title": "How to quickly deploy a static website",
-    "publish_date": "14 days ago",
-    "brief": "Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers.",
-    "description": "Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers. Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers. Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers. Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers. Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers.",
-    "author": "Jese Leos",
+    "id": 1,
+    "type": "Article",
+    "title": "Día Mundial de la Nutrición",
+    "publish_date": "Ahora",
+    "brief": "El Día Mundial de la Nutrición se celebra anualmente el 28 de mayo. Esta fecha fue instituida por la Organización Mundial de la Salud (OMS) con el objetivo de generar conciencia en la población sobre la importancia de llevar una alimentación adecuada para nutrir el cuerpo y mantener una buena salud.",
+    "description": "El Día de la Nutrición en Perú es una oportunidad para reflexionar sobre la importancia de una alimentación saludable y su impacto en la sociedad. Este año, la conmemoración llega en un momento crucial, donde el país enfrenta desafíos significativos en términos de salud nutricional. Perú se encuentra en una encrucijada de malnutrición, donde la desnutrición, la anemia y el sobrepeso coexisten como problemas de salud pública. Según la Encuesta Nacional de Demografía y Salud (Endes 2023), el 43% de los niños entre 6 y 35 meses sufren de anemia, mientras que siete de cada diez peruanos padecen de obesidad. Estas cifras son alarmantes y reflejan la necesidad de una intervención nutricional efectiva y sostenible. La educación alimentaria juega un papel fundamental en la prevención de enfermedades relacionadas con la dieta. Es esencial que las familias inculquen hábitos alimenticios saludables desde la infancia para promover estilos de vida beneficiosos y prevenir enfermedades crónicas no transmisibles como la diabetes y la hipertensión arterial. El Día de la Nutrición también destaca la importancia de desmitificar creencias erróneas sobre la alimentación. Por ejemplo, no todas las grasas son perjudiciales; las grasas no saturadas son necesarias para mantener la piel y el cabello saludables y proporcionar energía. Además, el consumo de frutas no debe evitarse debido a su contenido de azúcar, ya que son una fuente importante de fibra, vitaminas y minerales. En respuesta al cambio climático y sus efectos en la salud, los expertos recomiendan fortalecer el sistema inmunológico a través de una nutrición adecuada, especialmente ante la predicción de un invierno más severo en 2024. Una dieta equilibrada y la actividad física regular son clave para mantener un sistema inmunológico robusto y prevenir enfermedades. El Ministerio de Salud de Perú promueve acciones para adoptar estilos de vida saludables y minimizar el riesgo de enfermedades. La combinación de una alimentación adecuada y la actividad física diaria garantiza una vida larga y saludable. En resumen, el Día de la Nutrición es un recordatorio de que la salud de una nación depende de la nutrición de su gente. Es un llamado a la acción para que todos los peruanos tomen decisiones informadas sobre su alimentación y contribuyan a un futuro más saludable para el país.",
+    "author": "Antony Palomino",
     "authorImage": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png"
   },
   {
-    "id":2,
+    "id": 2,
     "type": "Article",
     "title": "Our first project with Astro",
     "publish_date": "14 days ago",
